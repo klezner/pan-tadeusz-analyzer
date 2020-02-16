@@ -5,11 +5,11 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.net.URL;
 
-public class ToStringReaderDAO implements ReaderDAO {
+public class FileToStringReaderDAO implements ReaderDAO {
 
     private URL url;
 
-    public ToStringReaderDAO(URL url) {
+    public FileToStringReaderDAO(URL url) {
         this.url = url;
     }
 

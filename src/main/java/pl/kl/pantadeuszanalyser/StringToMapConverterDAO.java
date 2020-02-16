@@ -5,11 +5,11 @@ import java.util.List;
 import java.util.Map;
 import java.util.TreeMap;
 
-public class ToMapConverterDAO implements ConverterDAO{
+public class StringToMapConverterDAO implements ConverterDAO{
 
     private ReaderDAO readerDAO;
 
-    public ToMapConverterDAO(ReaderDAO readerDAO) {
+    public StringToMapConverterDAO(ReaderDAO readerDAO) {
         this.readerDAO = readerDAO;
     }
 
