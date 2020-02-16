@@ -1,4 +1,4 @@
-package pl.kl.bookanalyser;
+package pl.kl.pantadeuszanalyzer;
 
 import static org.junit.Assert.assertTrue;
 
