@@ -1,4 +1,4 @@
-package pl.kl.pantadeuszanalyser;
+package pl.kl.pantadeuszanalyzer;
 
 import java.io.BufferedReader;
 import java.io.IOException;

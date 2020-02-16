@@ -1,4 +1,4 @@
-package pl.kl.pantadeuszanalyser;
+package pl.kl.pantadeuszanalyzer;
 
 import java.util.*;
 import java.util.stream.Collectors;
